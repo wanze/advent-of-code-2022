@@ -1,26 +1,25 @@
 void main() {
-    print('part1: ' + part1().toString());
-    print('part2: ' + part2().toString());
-
+  print('part1: ' + part1().toString());
+  print('part2: ' + part2().toString());
 }
 
 int part1() {
-    final summedCalories = sumCalories(input());    
-    sortDescending(summedCalories);
+  final summedCalories = sumCalories(input());    
+  sortDescending(summedCalories);
 
-    return summedCalories.first;
+  return summedCalories.first;
 }
 
 int part2() {
-    final summedCalories = sumCalories(input());
-    sortDescending(summedCalories);
+  final summedCalories = sumCalories(input());
+  sortDescending(summedCalories);
 
-    int sum = 0;
-    for (int i = 0; i < 3; i++) {
-      sum += summedCalories[i];
-    }
+  int sum = 0;
+  for (int i = 0; i < 3; i++) {
+    sum += summedCalories[i];
+  }
 
-    return sum;
+  return sum;
 }
 
 void sortDescending(List<int> list) {
@@ -28,20 +27,20 @@ void sortDescending(List<int> list) {
 }
 
 List<int> sumCalories(String input) {
-    final calories = input.split('\n');
-    final List<int> summedCalories = [];  
-    int currentSum = 0;
-    calories.forEach((cal) {
-      if (cal == '') {
-        summedCalories.add(currentSum);
-        currentSum = 0;
-      } else {
-        currentSum += int.parse(cal);
-      }
-    });
-    summedCalories.add(currentSum);
-    
-    return summedCalories;
+  final calories = input.split('\n');
+  final List<int> summedCalories = [];  
+  int currentSum = 0;
+  calories.forEach((cal) {
+    if (cal == '') {
+      summedCalories.add(currentSum);
+      currentSum = 0;
+    } else {
+      currentSum += int.parse(cal);
+    }
+  });
+  summedCalories.add(currentSum);
+  
+  return summedCalories;
 }
 
 
