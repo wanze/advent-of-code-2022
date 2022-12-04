@@ -7,4 +7,5 @@ using Dart.
 
 * [Day 1](https://adventofcode.com/2022/day/1) - Calorie Counting ⭐⭐
 * [Day 2](https://adventofcode.com/2022/day/2) - Rock Paper Scissors ⭐⭐
-* [Day 2](https://adventofcode.com/2022/day/3) - Rucksack Reorganization ⭐⭐
+* [Day 3](https://adventofcode.com/2022/day/3) - Rucksack Reorganization ⭐⭐
+* [Day 4](https://adventofcode.com/2022/day/4) - Camp Cleanup ⭐⭐
