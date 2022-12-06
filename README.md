@@ -9,3 +9,5 @@ using Dart.
 * [Day 2](https://adventofcode.com/2022/day/2) - Rock Paper Scissors ⭐⭐
 * [Day 3](https://adventofcode.com/2022/day/3) - Rucksack Reorganization ⭐⭐
 * [Day 4](https://adventofcode.com/2022/day/4) - Camp Cleanup ⭐⭐
+* [Day 5](https://adventofcode.com/2022/day/5) - Supply Snacks ⭐⭐
+* [Day 6](https://adventofcode.com/2022/day/6) - Tuning Trouble ⭐⭐
