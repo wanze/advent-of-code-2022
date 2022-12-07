@@ -11,3 +11,4 @@ using Dart.
 * [Day 4](https://adventofcode.com/2022/day/4) - Camp Cleanup ⭐⭐
 * [Day 5](https://adventofcode.com/2022/day/5) - Supply Snacks ⭐⭐
 * [Day 6](https://adventofcode.com/2022/day/6) - Tuning Trouble ⭐⭐
+* [Day 7](https://adventofcode.com/2022/day/7) - No space left on device ⭐⭐
