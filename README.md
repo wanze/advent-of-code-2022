@@ -15,3 +15,4 @@ using Dart.
 * [Day 8](https://adventofcode.com/2022/day/8) - Treetop Treehouse ⭐⭐
 * [Day 9](https://adventofcode.com/2022/day/9) - Rope Bridge ⭐
 * [Day 10](https://adventofcode.com/2022/day/10) - Cathode-Ray Tube ⭐⭐
+* [Day 11](https://adventofcode.com/2022/day/11) - Monkey in the Middle ⭐⭐
