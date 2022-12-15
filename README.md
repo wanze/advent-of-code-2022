@@ -16,3 +16,4 @@ using Dart.
 * [Day 9](https://adventofcode.com/2022/day/9) - Rope Bridge ⭐
 * [Day 10](https://adventofcode.com/2022/day/10) - Cathode-Ray Tube ⭐⭐
 * [Day 11](https://adventofcode.com/2022/day/11) - Monkey in the Middle ⭐⭐
+* [Day 12](https://adventofcode.com/2022/day/12) - Hill Climbing Algorithm ⭐⭐
