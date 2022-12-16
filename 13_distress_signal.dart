@@ -55,6 +55,7 @@ int part2() {
   final Packet p2 = Packet.fromString('[[6]]');
   packets.addAll([p1, p2]);
   
+  // todo: the order is not fully right, why?
   packets.sort((a, b) => b.compareTo(a));
 
   int index1 = packets.indexOf(p1) + 1;
