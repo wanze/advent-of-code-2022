@@ -19,3 +19,4 @@ using Dart.
 * [Day 12](https://adventofcode.com/2022/day/12) - Hill Climbing Algorithm ⭐⭐
 * [Day 13](https://adventofcode.com/2022/day/13) - Distress Signal ⭐
 * [Day 14](https://adventofcode.com/2022/day/14) - Regolith Reservoir ⭐⭐
+* [Day 15](https://adventofcode.com/2022/day/15) - Beacon Exclusion Zone ⭐
